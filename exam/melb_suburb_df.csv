@@ -1,0 +1,315 @@
+suburb_name,suburb_postcode,suburb_region_name,suburb_property_count,suburb_council_area,suburb_rental_dailyprice,suburb_id
+Abbotsford,3067.0,Northern Metropolitan,4019.0,['Yarra'],138.12921348314606,0
+Airport West,3042.0,Western Metropolitan,3464.0,['Moonee Valley'],82.1,1
+Albert Park,3206.0,Southern Metropolitan,3280.0,['Port Phillip'],230.62222222222223,2
+Alphington,3078.0,Northern Metropolitan,2211.0,"['Darebin', 'Yarra']",101.71153846153848,3
+Altona,3018.0,Western Metropolitan,5301.0,['Hobsons Bay'],88.25,4
+Altona North,3025.0,Western Metropolitan,5132.0,['Hobsons Bay'],,5
+Armadale,3143.0,Southern Metropolitan,4836.0,['Stonnington'],205.0888888888889,6
+Ascot Vale,3032.0,Western Metropolitan,6567.0,['Moonee Valley'],113.55102040816328,7
+Ashburton,3147.0,Southern Metropolitan,3052.0,['Boroondara'],86.11111111111111,8
+Ashwood,3147.0,Southern Metropolitan,2894.0,['Monash'],86.11111111111111,9
+Avondale Heights,3034.0,Western Metropolitan,4502.0,['Moonee Valley'],,10
+Balaclava,3183.0,Southern Metropolitan,2952.0,['Port Phillip'],119.68617021276596,11
+Balwyn,3103.0,Southern Metropolitan,5682.0,['Boroondara'],78.88461538461539,12
+Balwyn North,3104.0,Southern Metropolitan,7809.0,['Boroondara'],76.41666666666667,13
+Bentleigh,3204.0,Southern Metropolitan,6795.0,['Glen Eira'],144.86363636363637,14
+Bentleigh East,3165.0,Southern Metropolitan,10969.0,['Glen Eira'],119.08,15
+Box Hill,3128.0,Eastern Metropolitan,4605.0,['Whitehorse'],116.08130081300811,16
+Braybrook,3019.0,Western Metropolitan,3589.0,['Maribyrnong'],,17
+Brighton,3186.0,Southern Metropolitan,10579.0,['Bayside'],285.85714285714283,18
+Brighton East,3187.0,Southern Metropolitan,6938.0,"['Bayside', 'Glen Eira']",175.89655172413794,19
+Brunswick,3056.0,Northern Metropolitan,11918.0,['Moreland'],99.17571884984024,20
+Brunswick West,3055.0,Northern Metropolitan,7082.0,['Moreland'],90.10344827586206,21
+Bulleen,3105.0,Eastern Metropolitan,4480.0,['Manningham'],,22
+Burwood,3125.0,Southern Metropolitan,5678.0,"['Whitehorse', 'Monash']",103.4074074074074,23
+Camberwell,3124.0,Southern Metropolitan,8920.0,['Boroondara'],157.3913043478261,24
+Canterbury,3126.0,Southern Metropolitan,3265.0,['Boroondara'],,25
+Carlton North,3054.0,Northern Metropolitan,3106.0,['Yarra'],137.37373737373738,26
+Carnegie,3163.0,Southern Metropolitan,7822.0,['Glen Eira'],98.58510638297872,27
+Caulfield,3162.0,Southern Metropolitan,2379.0,['Glen Eira'],150.0888888888889,28
+Caulfield North,3161.0,Southern Metropolitan,6923.0,['Glen Eira'],135.07692307692307,29
+Caulfield South,3162.0,Southern Metropolitan,5051.0,['Glen Eira'],150.0888888888889,30
+Chadstone,3148.0,Southern Metropolitan,3582.0,['Monash'],,31
+Clifton Hill,3068.0,Northern Metropolitan,2954.0,['Yarra'],132.0497737556561,32
+Coburg,3058.0,Northern Metropolitan,11204.0,['Moreland'],110.05813953488372,33
+Coburg North,3058.0,Northern Metropolitan,3445.0,"['Moreland', 'Darebin']",110.05813953488372,34
+Collingwood,3066.0,Northern Metropolitan,4553.0,['Yarra'],151.13809523809525,35
+Doncaster,3108.0,Eastern Metropolitan,9028.0,['Manningham'],144.19298245614036,36
+Eaglemont,3084.0,Eastern Metropolitan,1651.0,['Banyule'],114.3939393939394,37
+Elsternwick,3185.0,Southern Metropolitan,4898.0,['Glen Eira'],144.39655172413794,38
+Elwood,3184.0,Southern Metropolitan,8989.0,"['Port Phillip', 'Glen Eira']",153.41810344827587,39
+Essendon,3040.0,Western Metropolitan,9264.0,['Moonee Valley'],124.88,40
+Essendon North,3041.0,Western Metropolitan,1308.0,['Moonee Valley'],,41
+Fairfield,3078.0,Northern Metropolitan,2970.0,"['Darebin', 'Yarra']",101.71153846153848,42
+Fitzroy,3065.0,Northern Metropolitan,5825.0,['Yarra'],158.23549488054607,43
+Fitzroy North,3068.0,Northern Metropolitan,6244.0,"['Yarra', 'Moreland']",132.0497737556561,44
+Flemington,3031.0,Northern Metropolitan,3593.0,"['Moonee Valley', 'Melbourne']",128.85401459854015,45
+Footscray,3011.0,Western Metropolitan,7570.0,['Maribyrnong'],101.05,46
+Glen Iris,3146.0,Southern Metropolitan,10412.0,"['Boroondara', 'Stonnington']",131.73333333333332,47
+Glenroy,3046.0,Northern Metropolitan,8870.0,['Moreland'],73.17241379310344,48
+Gowanbrae,3043.0,Western Metropolitan,1071.0,['Moreland'],84.88888888888889,49
+Hadfield,3046.0,Northern Metropolitan,2606.0,['Moreland'],73.17241379310344,50
+Hampton,3188.0,Southern Metropolitan,5454.0,"['Bayside', 'Unavailable']",253.4313725490196,51
+Hampton East,3188.0,Southern Metropolitan,2356.0,"['Bayside', 'Kingston']",253.4313725490196,52
+Hawthorn,3122.0,Southern Metropolitan,11308.0,['Boroondara'],209.14814814814812,53
+Heidelberg Heights,3081.0,Eastern Metropolitan,2947.0,['Banyule'],90.1818181818182,54
+Heidelberg West,3081.0,Eastern Metropolitan,2674.0,['Banyule'],90.1818181818182,55
+Hughesdale,3166.0,Southern Metropolitan,3145.0,['Monash'],94.38095238095238,56
+Ivanhoe,3079.0,Eastern Metropolitan,5549.0,['Banyule'],134.34615384615384,57
+Kealba,3021.0,Western Metropolitan,1202.0,['Brimbank'],,58
+Keilor East,3033.0,Western Metropolitan,5629.0,"['Moonee Valley', 'Brimbank']",,59
+Kensington,3031.0,Northern Metropolitan,5263.0,"['Melbourne', 'Moonee Valley']",128.85401459854015,60
+Kew,3101.0,Southern Metropolitan,10331.0,['Boroondara'],152.40350877192984,61
+Kew East,3102.0,Southern Metropolitan,2671.0,['Boroondara'],,62
+Kooyong,3144.0,Southern Metropolitan,394.0,['Stonnington'],328.8965517241379,63
+Maidstone,3012.0,Western Metropolitan,3873.0,['Maribyrnong'],111.1818181818182,64
+Malvern,3144.0,Southern Metropolitan,4675.0,['Stonnington'],328.8965517241379,65
+Malvern East,3145.0,Southern Metropolitan,8801.0,['Stonnington'],132.0281690140845,66
+Maribyrnong,3032.0,Western Metropolitan,4918.0,['Maribyrnong'],113.55102040816328,67
+Melbourne,3000.0,Northern Metropolitan,17496.0,['Melbourne'],149.47033898305085,68
+Middle Park,3206.0,Southern Metropolitan,2019.0,['Port Phillip'],230.62222222222223,69
+Mont Albert,3127.0,Eastern Metropolitan,2079.0,"['Whitehorse', 'Boroondara']",85.05263157894737,70
+Moonee Ponds,3039.0,Western Metropolitan,6232.0,['Moonee Valley'],100.02380952380952,71
+Moorabbin,3189.0,Southern Metropolitan,2555.0,['Kingston'],,72
+Newport,3015.0,Western Metropolitan,5498.0,['Hobsons Bay'],123.43243243243244,73
+Niddrie,3042.0,Western Metropolitan,2291.0,['Moonee Valley'],82.1,74
+North Melbourne,3051.0,Northern Metropolitan,6821.0,['Melbourne'],116.39449541284404,75
+Northcote,3070.0,Northern Metropolitan,11364.0,['Darebin'],117.13366336633663,76
+Oak Park,3046.0,Northern Metropolitan,2651.0,['Moreland'],73.17241379310344,77
+Oakleigh South,3167.0,South-Eastern Metropolitan,3692.0,"['Monash', 'Kingston']",,78
+Parkville,3052.0,Northern Metropolitan,2309.0,['Melbourne'],102.6,79
+Pascoe Vale,3044.0,Northern Metropolitan,7485.0,['Moreland'],98.14285714285714,80
+Port Melbourne,3207.0,Southern Metropolitan,8648.0,"['Port Phillip', 'Melbourne']",212.0054347826087,81
+Prahran,3181.0,Southern Metropolitan,7717.0,['Stonnington'],156.88768115942028,82
+Preston,3072.0,Northern Metropolitan,14577.0,"['Darebin', 'Banyule']",101.14893617021276,83
+Reservoir,3073.0,Northern Metropolitan,21650.0,['Darebin'],70.76315789473684,84
+Richmond,3121.0,Northern Metropolitan,14949.0,['Yarra'],164.1860465116279,85
+Rosanna,3084.0,Eastern Metropolitan,3540.0,['Banyule'],114.3939393939394,86
+Seddon,3011.0,Western Metropolitan,2417.0,['Maribyrnong'],101.05,87
+South Melbourne,3205.0,Southern Metropolitan,5943.0,['Port Phillip'],206.6935483870968,88
+South Yarra,3141.0,Southern Metropolitan,14887.0,"['Stonnington', 'Melbourne']",159.36159169550174,89
+Southbank,3006.0,Southern Metropolitan,8400.0,"['Melbourne', 'Port Phillip']",195.71724137931037,90
+Spotswood,3015.0,Western Metropolitan,1223.0,['Hobsons Bay'],123.43243243243244,91
+St Kilda,3182.0,Southern Metropolitan,13240.0,['Port Phillip'],144.2076923076923,92
+Strathmore,3041.0,Western Metropolitan,3284.0,['Moonee Valley'],,93
+Sunshine,3020.0,Western Metropolitan,3755.0,['Brimbank'],85.0952380952381,94
+Sunshine North,3020.0,Western Metropolitan,4217.0,['Brimbank'],85.0952380952381,95
+Sunshine West,3020.0,Western Metropolitan,6763.0,['Brimbank'],85.0952380952381,96
+Surrey Hills,3127.0,Southern Metropolitan,5457.0,"['Boroondara', 'Whitehorse']",85.05263157894737,97
+Templestowe Lower,3107.0,Eastern Metropolitan,5420.0,['Manningham'],,98
+Thornbury,3071.0,Northern Metropolitan,8870.0,['Darebin'],108.82051282051282,99
+Toorak,3142.0,Southern Metropolitan,7217.0,['Stonnington'],270.61728395061726,100
+Viewbank,3084.0,Eastern Metropolitan,2698.0,['Banyule'],114.3939393939394,101
+Watsonia,3087.0,Northern Metropolitan,2329.0,['Banyule'],,102
+West Melbourne,3003.0,Northern Metropolitan,2230.0,['Melbourne'],137.77514792899407,103
+Williamstown,3016.0,Western Metropolitan,6380.0,['Hobsons Bay'],191.5192307692308,104
+Williamstown North,3016.0,Western Metropolitan,802.0,['Hobsons Bay'],191.5192307692308,105
+Windsor,3181.0,Southern Metropolitan,4380.0,"['Port Phillip', 'Stonnington']",156.88768115942028,106
+Yallambie,3085.0,Northern Metropolitan,1369.0,['Banyule'],,107
+Yarraville,3013.0,Western Metropolitan,6543.0,['Maribyrnong'],146.89285714285714,108
+Aberfeldie,3040.0,Western Metropolitan,1543.0,['Moonee Valley'],124.88,109
+Bellfield,3081.0,Eastern Metropolitan,790.0,['Banyule'],90.1818181818182,110
+Brunswick East,3057.0,Northern Metropolitan,5533.0,['Moreland'],134.73267326732673,111
+Burnley,3121.0,Northern Metropolitan,438.0,['Yarra'],164.1860465116279,112
+Campbellfield,3061.0,Northern Metropolitan,1889.0,['Hume'],,113
+Carlton,3053.0,Northern Metropolitan,6786.0,['Melbourne'],116.41776315789474,114
+East Melbourne,3002.0,Northern Metropolitan,3040.0,['Melbourne'],206.66433566433565,115
+Essendon West,3040.0,Western Metropolitan,588.0,['Moonee Valley'],124.88,116
+Fawkner,3060.0,Northern Metropolitan,5070.0,"['Moreland', 'Hume']",,117
+Hawthorn East,3123.0,Southern Metropolitan,6482.0,['Boroondara'],182.35416666666663,118
+Heidelberg,3084.0,Eastern Metropolitan,2890.0,['Banyule'],114.3939393939394,119
+Ivanhoe East,3079.0,Eastern Metropolitan,1554.0,['Banyule'],134.34615384615384,120
+Jacana,3047.0,Northern Metropolitan,851.0,['Hume'],,121
+Kingsbury,3083.0,Northern Metropolitan,1414.0,['Darebin'],99.51351351351352,122
+Kingsville,3012.0,Western Metropolitan,1808.0,['Maribyrnong'],111.1818181818182,123
+Murrumbeena,3163.0,Southern Metropolitan,4442.0,['Glen Eira'],98.58510638297872,124
+Ormond,3204.0,Southern Metropolitan,3578.0,['Glen Eira'],144.86363636363637,125
+West Footscray,3012.0,Western Metropolitan,5058.0,['Maribyrnong'],111.1818181818182,126
+Albion,3020.0,Western Metropolitan,2185.0,['Brimbank'],85.0952380952381,127
+Brooklyn,3012.0,Western Metropolitan,962.0,"['Hobsons Bay', 'Brimbank']",111.1818181818182,128
+Glen Huntly,3163.0,Southern Metropolitan,2403.0,['Glen Eira'],98.58510638297872,129
+Oakleigh,3166.0,Southern Metropolitan,3224.0,['Monash'],94.38095238095238,130
+Ripponlea,3185.0,Southern Metropolitan,821.0,['Port Phillip'],144.39655172413794,131
+Cremorne,3121.0,Northern Metropolitan,1123.0,['Yarra'],164.1860465116279,132
+Docklands,3008.0,Southern Metropolitan,4707.0,['Melbourne'],165.44155844155844,133
+South Kingsville,3015.0,Western Metropolitan,984.0,['Hobsons Bay'],123.43243243243244,134
+Strathmore Heights,3041.0,Western Metropolitan,389.0,['Moonee Valley'],,135
+Travancore,3032.0,Western Metropolitan,1052.0,['Moonee Valley'],113.55102040816328,136
+Caulfield East,3145.0,Southern Metropolitan,608.0,['Glen Eira'],132.0281690140845,137
+Seaholme,3018.0,Western Metropolitan,852.0,['Hobsons Bay'],88.25,138
+Keilor Park,3042.0,Western Metropolitan,1119.0,['Brimbank'],82.1,139
+Gardenvale,3185.0,Southern Metropolitan,534.0,['Glen Eira'],144.39655172413794,140
+Princes Hill,3054.0,Northern Metropolitan,1008.0,['Yarra'],137.37373737373738,141
+Bayswater,3153.0,Eastern Metropolitan,5030.0,['Knox'],,142
+Bayswater North,3153.0,Eastern Metropolitan,3598.0,['Maroondah'],,143
+Beaumaris,3193.0,Southern Metropolitan,5366.0,['Bayside'],189.3846153846154,144
+Berwick,3806.0,Eastern Victoria,17093.0,['Casey'],129.68421052631578,145
+Boronia,3155.0,Eastern Metropolitan,9704.0,['Knox'],,146
+Briar Hill,3088.0,Eastern Metropolitan,1390.0,['Banyule'],,147
+Broadmeadows,3047.0,Northern Metropolitan,4294.0,['Hume'],,148
+Bundoora,3083.0,Northern Metropolitan,10175.0,"['Banyule', 'Whittlesea', 'Darebin']",99.51351351351352,149
+Burnside Heights,3023.0,Western Metropolitan,1686.0,['Melton'],110.9375,150
+Burwood East,3151.0,Eastern Metropolitan,4048.0,['Whitehorse'],100.6875,151
+Cairnlea,3023.0,Western Metropolitan,2674.0,['Brimbank'],110.9375,152
+Caroline Springs,3023.0,Western Metropolitan,7719.0,['Melton'],110.9375,153
+Cheltenham,3192.0,Southern Metropolitan,9758.0,"['Kingston', 'Bayside']",139.375,154
+Craigieburn,3064.0,Northern Metropolitan,15510.0,['Hume'],74.27586206896552,155
+Cranbourne,3977.0,South-Eastern Metropolitan,7680.0,['Casey'],83.48148148148148,156
+Croydon,3136.0,Eastern Metropolitan,11925.0,['Maroondah'],,157
+Dandenong,3175.0,South-Eastern Metropolitan,10894.0,['Greater Dandenong'],96.77777777777776,158
+Dandenong North,3175.0,South-Eastern Metropolitan,8322.0,['Greater Dandenong'],96.77777777777776,159
+Diamond Creek,3089.0,Northern Victoria,4258.0,['Nillumbik'],,160
+Dingley Village,3172.0,South-Eastern Metropolitan,3940.0,['Kingston'],,161
+Doncaster East,3109.0,Eastern Metropolitan,10999.0,['Manningham'],109.625,162
+Donvale,3111.0,Eastern Metropolitan,4790.0,['Manningham'],,163
+Doreen,3754.0,Northern Victoria,7254.0,['Whittlesea'],,164
+Eltham,3095.0,Eastern Metropolitan,6990.0,['Nillumbik'],109.30434782608695,165
+Epping,3076.0,Northern Metropolitan,10926.0,['Whittlesea'],,166
+Forest Hill,3131.0,Eastern Metropolitan,4385.0,['Whitehorse'],,167
+Frankston,3199.0,South-Eastern Metropolitan,17055.0,['Frankston'],176.86301369863014,168
+Frankston North,3200.0,Eastern Victoria,2500.0,['Frankston'],,169
+Frankston South,3199.0,South-Eastern Metropolitan,7566.0,['Frankston'],176.86301369863014,170
+Gisborne,3437.0,Northern Victoria,3376.0,['Macedon Ranges'],,171
+Gladstone Park,3043.0,Western Metropolitan,3285.0,['Hume'],84.88888888888889,172
+Greensborough,3088.0,Northern Metropolitan,8524.0,"['Banyule', 'Nillumbik']",,173
+Hallam,3803.0,South-Eastern Metropolitan,3728.0,['Casey'],,174
+Healesville,3777.0,Northern Victoria,3307.0,['Yarra Ranges'],232.5344827586207,175
+Highett,3190.0,Southern Metropolitan,4794.0,"['Bayside', 'Kingston']",138.35,176
+Hillside,3037.0,Western Metropolitan,5556.0,"['Melton', 'Brimbank']",,177
+Huntingdale,3166.0,Southern Metropolitan,768.0,['Monash'],94.38095238095238,178
+Keilor Downs,3038.0,Western Metropolitan,3656.0,['Brimbank'],,179
+Keilor Lodge,3038.0,Western Metropolitan,570.0,['Brimbank'],,180
+Keysborough,3173.0,South-Eastern Metropolitan,8459.0,['Greater Dandenong'],73.86666666666666,181
+Kings Park,3021.0,Western Metropolitan,2878.0,['Brimbank'],,182
+Lalor,3075.0,Northern Metropolitan,8279.0,['Whittlesea'],,183
+Lower Plenty,3093.0,Eastern Metropolitan,1624.0,['Banyule'],,184
+Melton,3337.0,Western Victoria,3600.0,['Melton'],,185
+Mernda,3754.0,Northern Metropolitan,5812.0,['Whittlesea'],,186
+Mill Park,3082.0,Northern Metropolitan,10529.0,['Whittlesea'],,187
+Mitcham,3132.0,Eastern Metropolitan,6871.0,['Whitehorse'],66.13333333333334,188
+Montmorency,3094.0,Eastern Metropolitan,3891.0,['Banyule'],,189
+Mordialloc,3195.0,South-Eastern Metropolitan,3650.0,['Kingston'],137.09803921568627,190
+Mount Waverley,3149.0,Eastern Metropolitan,13366.0,['Monash'],93.38888888888889,191
+Narre Warren,3805.0,South-Eastern Metropolitan,9376.0,['Casey'],130.10526315789474,192
+Nunawading,3131.0,Eastern Metropolitan,4973.0,['Whitehorse'],,193
+Oakleigh East,3166.0,Southern Metropolitan,2547.0,['Monash'],94.38095238095238,194
+Parkdale,3195.0,South-Eastern Metropolitan,5087.0,['Kingston'],137.09803921568627,195
+Point Cook,3030.0,Western Metropolitan,15542.0,['Wyndham'],118.1726618705036,196
+Ringwood East,3135.0,Eastern Metropolitan,4407.0,['Maroondah'],,197
+Rockbank,3335.0,Western Metropolitan,538.0,['Melton'],,198
+Rowville,3178.0,South-Eastern Metropolitan,11667.0,['Knox'],72.84210526315789,199
+Sandringham,3191.0,Southern Metropolitan,4497.0,['Bayside'],185.42424242424244,200
+Seaford,3198.0,South-Eastern Metropolitan,8077.0,['Frankston'],106.13333333333334,201
+Skye,3977.0,South-Eastern Metropolitan,2756.0,['Frankston'],83.48148148148148,202
+South Morang,3752.0,Northern Metropolitan,7969.0,['Whittlesea'],,203
+Springvale,3171.0,South-Eastern Metropolitan,7412.0,['Greater Dandenong'],,204
+St Albans,3021.0,Western Metropolitan,14042.0,['Brimbank'],,205
+Sunbury,3429.0,Western Metropolitan,14092.0,['Hume'],,206
+Tarneit,3029.0,Western Metropolitan,10160.0,['Wyndham'],80.88679245283019,207
+Taylors Hill,3037.0,Western Metropolitan,4242.0,['Melton'],,208
+Taylors Lakes,3038.0,Western Metropolitan,5336.0,['Brimbank'],,209
+The Basin,3154.0,Eastern Metropolitan,1690.0,['Knox'],,210
+Thomastown,3074.0,Northern Metropolitan,7955.0,['Whittlesea'],,211
+Truganina,3029.0,Western Metropolitan,5811.0,['Wyndham'],80.88679245283019,212
+Tullamarine,3043.0,Western Metropolitan,3296.0,['Hume'],84.88888888888889,213
+Vermont,3133.0,Eastern Metropolitan,4181.0,['Whitehorse'],68.17647058823529,214
+Wantirna,3152.0,Eastern Metropolitan,5424.0,['Knox'],92.82608695652172,215
+Wantirna South,3152.0,Eastern Metropolitan,7082.0,['Knox'],92.82608695652172,216
+Werribee,3030.0,Western Metropolitan,16166.0,['Wyndham'],118.1726618705036,217
+Westmeadows,3049.0,Northern Metropolitan,2474.0,['Hume'],,218
+Williams Landing,3027.0,Western Metropolitan,1999.0,['Wyndham'],189.10526315789477,219
+Wollert,3750.0,Northern Metropolitan,2940.0,['Whittlesea'],,220
+Wyndham Vale,3024.0,Western Metropolitan,5262.0,['Wyndham'],,221
+Black Rock,3193.0,Southern Metropolitan,2866.0,['Bayside'],189.3846153846154,222
+Blackburn,3130.0,Eastern Metropolitan,5713.0,['Whitehorse'],100.77777777777776,223
+Blackburn North,3130.0,Eastern Metropolitan,2867.0,['Whitehorse'],100.77777777777776,224
+Bonbeach,3196.0,South-Eastern Metropolitan,2887.0,['Kingston'],110.83870967741936,225
+Carrum,3197.0,South-Eastern Metropolitan,1989.0,['Kingston'],,226
+Chelsea,3196.0,South-Eastern Metropolitan,3906.0,['Kingston'],110.83870967741936,227
+Clayton,3168.0,South-Eastern Metropolitan,5837.0,['Monash'],64.18867924528301,228
+Doveton,3177.0,South-Eastern Metropolitan,3533.0,['Casey'],,229
+Ferntree Gully,3156.0,Eastern Metropolitan,10788.0,['Knox'],128.83333333333334,230
+Glen Waverley,3150.0,Eastern Metropolitan,15321.0,['Monash'],118.91588785046729,231
+Greenvale,3059.0,Northern Metropolitan,4864.0,['Hume'],,232
+Heathmont,3135.0,Eastern Metropolitan,3794.0,['Maroondah'],,233
+Hoppers Crossing,3029.0,Western Metropolitan,13830.0,['Wyndham'],80.88679245283019,234
+McKinnon,3204.0,Southern Metropolitan,2397.0,['Glen Eira'],144.86363636363637,235
+Melton South,3338.0,Western Victoria,4718.0,['Melton'],,236
+Melton West,3337.0,Northern Victoria,6065.0,['Melton'],,237
+Mentone,3194.0,South-Eastern Metropolitan,6162.0,['Kingston'],,238
+Mooroolbark,3138.0,Eastern Victoria,8280.0,['Yarra Ranges'],,239
+Mulgrave,3170.0,South-Eastern Metropolitan,7113.0,['Monash'],,240
+Ringwood,3134.0,Eastern Metropolitan,7785.0,['Maroondah'],115.05882352941175,241
+Roxburgh Park,3064.0,Northern Metropolitan,5833.0,['Hume'],74.27586206896552,242
+Seabrook,3028.0,Western Metropolitan,1793.0,['Hobsons Bay'],83.6875,243
+Templestowe,3106.0,Eastern Metropolitan,6202.0,['Manningham'],,244
+Vermont South,3133.0,Eastern Metropolitan,4280.0,['Whitehorse'],68.17647058823529,245
+Warrandyte,3113.0,Eastern Metropolitan,2003.0,['Manningham'],340.39130434782606,246
+Watsonia North,3087.0,Northern Metropolitan,1442.0,['Banyule'],,247
+Wheelers Hill,3150.0,South-Eastern Metropolitan,7392.0,['Monash'],118.91588785046729,248
+Altona Meadows,3028.0,Western Metropolitan,7630.0,['Hobsons Bay'],83.6875,249
+Blackburn South,3130.0,Eastern Metropolitan,4387.0,['Whitehorse'],100.77777777777776,250
+Carrum Downs,3201.0,South-Eastern Metropolitan,8060.0,['Frankston'],,251
+Clayton South,3169.0,South-Eastern Metropolitan,4734.0,['Kingston'],85.125,252
+Croydon North,3136.0,Eastern Metropolitan,2985.0,['Maroondah'],,253
+Langwarrin,3910.0,Eastern Victoria,8743.0,['Frankston'],,254
+Noble Park,3174.0,South-Eastern Metropolitan,11806.0,['Greater Dandenong'],50.9375,255
+Notting Hill,3168.0,Southern Metropolitan,902.0,['Monash'],64.18867924528301,256
+Ringwood North,3134.0,Eastern Metropolitan,3619.0,['Maroondah'],115.05882352941175,257
+Sydenham,3037.0,Western Metropolitan,3640.0,['Brimbank'],,258
+Albanvale,3021.0,Western Metropolitan,1899.0,['Brimbank'],,259
+Beaconsfield Upper,3808.0,Eastern Victoria,973.0,['Cardinia'],,260
+Chelsea Heights,3196.0,South-Eastern Metropolitan,2076.0,['Kingston'],110.83870967741936,261
+Dallas,3047.0,Northern Metropolitan,2246.0,['Hume'],,262
+Deer Park,3023.0,Western Metropolitan,6388.0,['Brimbank'],110.9375,263
+Eltham North,3095.0,Eastern Metropolitan,2346.0,"['Nillumbik', 'Banyule']",109.30434782608695,264
+Keilor,3036.0,Western Metropolitan,2339.0,['Brimbank'],,265
+Meadow Heights,3048.0,Northern Metropolitan,4704.0,['Hume'],,266
+Mount Evelyn,3796.0,Eastern Victoria,3532.0,['Yarra Ranges'],,267
+North Warrandyte,3113.0,Eastern Metropolitan,1058.0,['Nillumbik'],340.39130434782606,268
+Pakenham,3810.0,Eastern Victoria,17384.0,['Cardinia'],,269
+Riddells Creek,3431.0,Northern Victoria,1475.0,['Macedon Ranges'],,270
+Sandhurst,3977.0,South-Eastern Metropolitan,1721.0,['Frankston'],83.48148148148148,271
+Scoresby,3179.0,Eastern Metropolitan,2206.0,['Knox'],,272
+Silvan,3795.0,Eastern Victoria,457.0,['Yarra Ranges'],,273
+Aspendale,3195.0,South-Eastern Metropolitan,2824.0,['Kingston'],137.09803921568627,274
+Chirnside Park,3116.0,Eastern Victoria,3789.0,['Yarra Ranges'],,275
+Croydon Hills,3136.0,Eastern Metropolitan,1705.0,['Maroondah'],,276
+Croydon South,3136.0,Eastern Metropolitan,1863.0,['Maroondah'],,277
+Derrimut,3030.0,Western Metropolitan,2276.0,['Brimbank'],118.1726618705036,278
+Diggers Rest,3427.0,Western Metropolitan,1184.0,['Melton'],,279
+Edithvale,3196.0,South-Eastern Metropolitan,2546.0,['Kingston'],110.83870967741936,280
+Hampton Park,3976.0,South-Eastern Metropolitan,8256.0,['Casey'],,281
+Knoxfield,3180.0,Eastern Metropolitan,2949.0,['Knox'],,282
+St Helena,3088.0,Eastern Metropolitan,915.0,['Banyule'],,283
+Upwey,3158.0,Eastern Victoria,2591.0,['Yarra Ranges'],,284
+Bacchus Marsh,3340.0,Western Victoria,2871.0,['Moorabool'],,285
+Coolaroo,3048.0,Northern Metropolitan,1124.0,['Hume'],,286
+Cranbourne North,3977.0,South-Eastern Metropolitan,6464.0,['Casey'],83.48148148148148,287
+Kilsyth,3137.0,Eastern Metropolitan,4654.0,['Maroondah'],,288
+Montrose,3765.0,Eastern Victoria,2493.0,['Yarra Ranges'],,289
+Aspendale Gardens,3195.0,South-Eastern Metropolitan,2243.0,['Kingston'],137.09803921568627,290
+Bullengarook,3437.0,Northern Victoria,249.0,['Macedon Ranges'],,291
+Clarinda,3169.0,South-Eastern Metropolitan,2727.0,['Kingston'],85.125,292
+Deepdene,3103.0,Southern Metropolitan,892.0,['Boroondara'],78.88461538461539,293
+Delahey,3037.0,Western Metropolitan,2898.0,['Brimbank'],,294
+Hurstbridge,3099.0,Northern Victoria,1345.0,['Nillumbik'],,295
+Kurunjang,3337.0,Northern Victoria,3553.0,['Melton'],,296
+Wonga Park,3115.0,Eastern Victoria,1328.0,['Manningham'],,297
+Endeavour Hills,3802.0,South-Eastern Metropolitan,8443.0,['Casey'],,298
+Officer,3809.0,Eastern Victoria,2768.0,['Cardinia'],,299
+Waterways,3195.0,South-Eastern Metropolitan,709.0,['Kingston'],137.09803921568627,300
+Ardeer,3022.0,Western Metropolitan,1281.0,['Brimbank'],,301
+Beaconsfield,3807.0,Eastern Victoria,2332.0,['Cardinia'],,302
+Springvale South,3172.0,South-Eastern Metropolitan,4054.0,['Greater Dandenong'],,303
+Yarra Glen,3775.0,Northern Victoria,1160.0,['Yarra Ranges'],335.22222222222223,304
+Brookfield,3338.0,Western Victoria,3122.0,['Melton'],,305
+Emerald,3782.0,Eastern Victoria,2259.0,['Cardinia'],192.15625,306
+Whittlesea,3757.0,Northern Victoria,2170.0,['Whittlesea'],,307
+Burnside,3023.0,Western Metropolitan,1607.0,,110.9375,308
+Attwood,3049.0,Northern Metropolitan,1130.0,,,309
+Wallan,3756.0,Northern Victoria,3988.0,,,310
+New Gisborne,3438.0,Northern Victoria,849.0,,,311
+Plumpton,3335.0,Western Metropolitan,1490.0,,,312
+Monbulk,3793.0,Eastern Victoria,1424.0,,,313
